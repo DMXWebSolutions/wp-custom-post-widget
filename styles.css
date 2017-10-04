@@ -1,0 +1,19 @@
+.pw-button {
+    height: 34px;
+    line-height: 1;
+    margin-top: 15px;
+    margin-bottom: 15px !important;
+    width: 100%;
+}
+
+.pw-img-preview {
+    width: 100%;
+}
+
+.widget-field {
+    margin-bottom: 15px !important;
+}
+
+.widget-field:first-child {
+    margin-top: 15px !important;
+}
